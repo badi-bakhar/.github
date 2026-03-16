@@ -1,10 +1,3 @@
-# Badi Bakhar — بڑی بکھار
-### The Great Granary
-
-> *Har baat yaad rakhni hai. Yahi granary ka kaam hai.*
-> *(Every piece of knowledge must be remembered. That is the granary's job.)*
-
----
 
 ## What is Badi Bakhar?
 
